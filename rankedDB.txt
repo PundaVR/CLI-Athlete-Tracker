@@ -1,0 +1,6 @@
+id:4 firstName:Ronald lastName:Reeeegan raceTime1:10.03 raceTime2:13.08 averageTime:11.555 ranking:1 
+id:0 firstName:Sleepy lastName:Joe raceTime1:24.01 raceTime2:22.23 averageTime:23.12 ranking:2 
+id:2 firstName:Donald lastName:Thump raceTime1:26.54 raceTime2:24.33 averageTime:25.435 ranking:3 
+id:1 firstName:Barackaa lastName:Obamus raceTime1:25.73 raceTime2:26.94 averageTime:26.335 ranking:4 
+id:3 firstName:Bill lastName:Bitchton raceTime1:30.20 raceTime2:50.32 averageTime:40.26 ranking:5 
+id:5 firstName:Bitchary lastName:Clinton raceTime1:60.23 raceTime2:55.21 averageTime:57.72 ranking:6 
